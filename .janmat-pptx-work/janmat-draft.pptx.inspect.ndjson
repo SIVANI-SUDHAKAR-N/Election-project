@@ -1,0 +1,129 @@
+{"kind":"deck","id":"pr/jv93ao","name":"Deck"}
+{"kind":"layout","layoutId":"4b3ffad7-9179-4da2-a394-94e6d317940d","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"91e768f3-dca0-4eb0-b875-438c7014666a","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/suo9dp","slide":1,"title":"JANMAT","textShapes":6}
+{"kind":"textbox","id":"sh/m9w3i9gz","slide":1,"name":"text","text":"JANMAT","textPreview":"JANMAT","textChars":6,"textLines":1,"bbox":[76,56,500,30]}
+{"kind":"textbox","id":"sh/9cn2doza","slide":1,"name":"text","text":"A vote is\na promise.","textPreview":"A vote is | a promise.","textChars":20,"textLines":2,"bbox":[72,150,730,235]}
+{"kind":"textbox","id":"sh/8belkjy5","slide":1,"name":"text","text":"A small election platform with two ways to run the vote","textPreview":"A small election platform with two ways to run the vote","textChars":55,"textLines":1,"bbox":[78,418,760,42]}
+{"kind":"textbox","id":"sh/z65k7eh8","slide":1,"name":"text","text":"J","textPreview":"J","textChars":1,"textLines":1,"bbox":[946,132,190,220]}
+{"kind":"textbox","id":"sh/y5c3e9gn","slide":1,"name":"text","text":"WEB DEMO  +  JAVA CONSOLE","textPreview":"WEB DEMO  +  JAVA CONSOLE","textChars":25,"textLines":1,"bbox":[80,595,700,28]}
+{"kind":"textbox","id":"sh/l8n294ze","slide":1,"name":"text","text":"PROJECT PRESENTATION","textPreview":"PROJECT PRESENTATION","textChars":20,"textLines":1,"bbox":[80,636,700,24]}
+{"kind":"notes","id":"nt/suo9dp","slide":1,"text":"Janmat is documented as a front-end demonstration of a community election. The repository also includes a Java console implementation."}
+{"kind":"slide","id":"sl/ecoosf","slide":2,"title":"THE IDEA","textShapes":12}
+{"kind":"textbox","id":"sh/3654j690","slide":2,"name":"text","text":"THE IDEA","textPreview":"THE IDEA","textChars":8,"textLines":1,"bbox":[74,48,900,25]}
+{"kind":"textbox","id":"sh/47e5sbal","slide":2,"name":"text","text":"Make a local election easy to follow","textPreview":"Make a local election easy to follow","textChars":36,"textLines":1,"bbox":[72,88,1136,66]}
+{"kind":"textbox","id":"sh/58nmlgr6","slide":2,"name":"text","text":"A voter needs a clear ballot, a simple way to submit it, and a visible count.","textPreview":"A voter needs a clear ballot, a simple way to submit it, and a visible count.","textChars":77,"textLines":1,"bbox":[76,196,580,150]}
+{"kind":"textbox","id":"sh/q9wnulsr","slide":2,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[760,185,92,72]}
+{"kind":"textbox","id":"sh/rap4nq9w","slide":2,"name":"text","text":"Know who is running","textPreview":"Know who is running","textChars":19,"textLines":1,"bbox":[867,194,330,54]}
+{"kind":"textbox","id":"sh/sby5wbah","slide":2,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[760,303,92,72]}
+{"kind":"textbox","id":"sh/dc7mpgr2","slide":2,"name":"text","text":"Use one registered voter ID","textPreview":"Use one registered voter ID","textChars":27,"textLines":1,"bbox":[867,312,350,54]}
+{"kind":"textbox","id":"sh/6dc3ihs7","slide":2,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[760,421,92,72]}
+{"kind":"textbox","id":"sh/7el4rmts","slide":2,"name":"text","text":"See the tally update","textPreview":"See the tally update","textChars":20,"textLines":1,"bbox":[867,430,350,54]}
+{"kind":"textbox","id":"sh/jqpk7ah0","slide":2,"name":"text","text":"The experience is designed around the voter journey.","textPreview":"The experience is designed around the voter journey.","textChars":52,"textLines":1,"bbox":[78,522,520,64]}
+{"kind":"textbox","id":"sh/ipg3ypgf","slide":2,"name":"text","text":"JANMAT  /  ELECTION SYSTEM","textPreview":"JANMAT  /  ELECTION SYSTEM","textChars":26,"textLines":1,"bbox":[72,674,450,20]}
+{"kind":"textbox","id":"sh/5cr29kz6","slide":2,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,674,48,20]}
+{"kind":"notes","id":"nt/ecoosf","slide":2,"text":"This slide summarizes the product intent stated in the website and Java documentation."}
+{"kind":"slide","id":"sl/fb4rgw","slide":3,"title":"TWO WAYS TO RUN IT","textShapes":11}
+{"kind":"textbox","id":"sh/mh4rqd4z","slide":3,"name":"text","text":"TWO WAYS TO RUN IT","textPreview":"TWO WAYS TO RUN IT","textChars":18,"textLines":1,"bbox":[74,48,900,25]}
+{"kind":"textbox","id":"sh/94vq1sna","slide":3,"name":"text","text":"One idea, two editions","textPreview":"One idea, two editions","textChars":22,"textLines":1,"bbox":[72,88,1136,66]}
+{"kind":"textbox","id":"sh/o3m9snmp","slide":3,"name":"text","text":"01   BROWSER DEMO","textPreview":"01   BROWSER DEMO","textChars":17,"textLines":1,"bbox":[78,194,470,38]}
+{"kind":"textbox","id":"sh/b6d83i5g","slide":3,"name":"text","text":"Janmat","textPreview":"Janmat","textChars":6,"textLines":1,"bbox":[78,246,470,78]}
+{"kind":"textbox","id":"sh/a54rud4v","slide":3,"name":"text","text":"A friendly, visual ballot\nLocal browser storage\nLive tally and receipt","textPreview":"A friendly, visual ballot | Local browser storage | Live tally and receipt","textChars":70,"textLines":3,"bbox":[82,345,470,160]}
+{"kind":"textbox","id":"sh/x8vq5snm","slide":3,"name":"text","text":"02   JAVA CONSOLE","textPreview":"02   JAVA CONSOLE","textChars":17,"textLines":1,"bbox":[682,194,500,38]}
+{"kind":"textbox","id":"sh/w7m9wnm1","slide":3,"name":"text","text":"Election system","textPreview":"Election system","textChars":15,"textLines":1,"bbox":[682,246,520,78]}
+{"kind":"textbox","id":"sh/rat8ry5c","slide":3,"name":"text","text":"Command line voting flow\nVoter and candidate objects\nText results export","textPreview":"Command line voting flow | Voter and candidate objects | Text results export","textChars":72,"textLines":3,"bbox":[686,345,480,160]}
+{"kind":"textbox","id":"sh/q907it4r","slide":3,"name":"text","text":"Pick the edition that fits the room: click-through demo or terminal session.","textPreview":"Pick the edition that fits the room: click-through demo or terminal session.","textChars":76,"textLines":1,"bbox":[80,570,1070,38]}
+{"kind":"textbox","id":"sh/oni9cjul","slide":3,"name":"text","text":"JANMAT  /  ELECTION SYSTEM","textPreview":"JANMAT  /  ELECTION SYSTEM","textChars":26,"textLines":1,"bbox":[72,674,450,20]}
+{"kind":"textbox","id":"sh/poba5ov6","slide":3,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,674,48,20]}
+{"kind":"notes","id":"nt/fb4rgw","slide":3,"text":"The browser version lives in index.html, styles.css and app.js. The Java console version uses Main and the election domain classes."}
+{"kind":"slide","id":"sl/46kyqw","slide":4,"title":"THE VOTING JOURNEY","textShapes":14}
+{"kind":"textbox","id":"sh/8ji1g7qt","slide":4,"name":"text","text":"THE VOTING JOURNEY","textPreview":"THE VOTING JOURNEY","textChars":18,"textLines":1,"bbox":[74,48,900,25]}
+{"kind":"textbox","id":"sh/7i9kn298","slide":4,"name":"text","text":"A ballot in three moves","textPreview":"A ballot in three moves","textChars":23,"textLines":1,"bbox":[72,88,1136,66]}
+{"kind":"textbox","id":"sh/6h0jex8n","slide":4,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[92,198,116,90]}
+{"kind":"textbox","id":"sh/lgr2lsr2","slide":4,"name":"text","text":"Meet the candidates","textPreview":"Meet the candidates","textChars":19,"textLines":1,"bbox":[92,301,330,66]}
+{"kind":"textbox","id":"sh/kfi1cnqh","slide":4,"name":"text","text":"Read names, parties,\nand short descriptions.","textPreview":"Read names, parties, | and short descriptions.","textChars":44,"textLines":2,"bbox":[92,382,320,108]}
+{"kind":"textbox","id":"sh/jepkji9w","slide":4,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[470,198,116,90]}
+{"kind":"textbox","id":"sh/ydgjad8b","slide":4,"name":"text","text":"Check the voter ID","textPreview":"Check the voter ID","textChars":18,"textLines":1,"bbox":[470,301,330,66]}
+{"kind":"textbox","id":"sh/xc72hsr6","slide":4,"name":"text","text":"Enter a registered ID.\nThe demo checks eligibility.","textPreview":"Enter a registered ID. | The demo checks eligibility.","textChars":51,"textLines":2,"bbox":[470,382,320,108]}
+{"kind":"textbox","id":"sh/cby18nql","slide":4,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[848,198,116,90]}
+{"kind":"textbox","id":"sh/ixsfed0r","slide":4,"name":"text","text":"Cast and count","textPreview":"Cast and count","textChars":14,"textLines":1,"bbox":[848,301,330,66]}
+{"kind":"textbox","id":"sh/jylg7i1w","slide":4,"name":"text","text":"Select one candidate.\nThe tally refreshes.","textPreview":"Select one candidate. | The tally refreshes.","textChars":42,"textLines":2,"bbox":[848,382,320,108]}
+{"kind":"textbox","id":"sh/4zuxgnih","slide":4,"name":"text","text":"Voter → ballot → result","textPreview":"Voter → ballot → result","textChars":23,"textLines":1,"bbox":[82,560,1000,44]}
+{"kind":"textbox","id":"sh/503y98j2","slide":4,"name":"text","text":"JANMAT  /  ELECTION SYSTEM","textPreview":"JANMAT  /  ELECTION SYSTEM","textChars":26,"textLines":1,"bbox":[72,674,450,20]}
+{"kind":"textbox","id":"sh/u9sfat0f","slide":4,"name":"text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,674,48,20]}
+{"kind":"notes","id":"nt/46kyqw","slide":4,"text":"The three-step sequence follows the website flow: inspect candidates, enter a voter ID and submit a selected candidate. The tally is recomputed from stored votes."}
+{"kind":"slide","id":"sl/h2utos","slide":5,"title":"BROWSER EDITION","textShapes":11}
+{"kind":"textbox","id":"sh/xwf6x43m","slide":5,"name":"text","text":"BROWSER EDITION","textPreview":"BROWSER EDITION","textChars":15,"textLines":1,"bbox":[74,48,900,25]}
+{"kind":"textbox","id":"sh/at4n29kv","slide":5,"name":"text","text":"Janmat lives in one browser","textPreview":"Janmat lives in one browser","textChars":27,"textLines":1,"bbox":[72,88,1136,66]}
+{"kind":"textbox","id":"sh/buxovulg","slide":5,"name":"text","text":"The page is plain HTML, CSS and JavaScript.","textPreview":"The page is plain HTML, CSS and JavaScript.","textChars":43,"textLines":1,"bbox":[78,196,570,84]}
+{"kind":"textbox","id":"sh/orm50z2p","slide":5,"name":"text","text":"Candidate cards","textPreview":"Candidate cards","textChars":15,"textLines":1,"bbox":[82,324,290,46]}
+{"kind":"textbox","id":"sh/9sv6t43a","slide":5,"name":"text","text":"Ballot form","textPreview":"Ballot form","textChars":11,"textLines":1,"bbox":[82,394,290,46]}
+{"kind":"textbox","id":"sh/2p4nypkz","slide":5,"name":"text","text":"Results tally","textPreview":"Results tally","textChars":13,"textLines":1,"bbox":[82,464,290,46]}
+{"kind":"textbox","id":"sh/nqdorulk","slide":5,"name":"text","text":"Local storage keeps the election setup and votes on that device.","textPreview":"Local storage keeps the election setup and votes on that device.","textChars":64,"textLines":1,"bbox":[670,210,500,110]}
+{"kind":"textbox","id":"sh/8nq5cj29","slide":5,"name":"text","text":"The organiser can edit candidate and voter lists, then restore the sample election.","textPreview":"The organiser can edit candidate and voter lists, then restore the sample election.","textChars":83,"textLines":1,"bbox":[670,350,500,124]}
+{"kind":"textbox","id":"sh/toz65o3u","slide":5,"name":"text","text":"Try it: VOTER-001 to VOTER-006","textPreview":"Try it: VOTER-001 to VOTER-006","textChars":30,"textLines":1,"bbox":[670,518,500,56]}
+{"kind":"textbox","id":"sh/t0bepo72","slide":5,"name":"text","text":"JANMAT  /  ELECTION SYSTEM","textPreview":"JANMAT  /  ELECTION SYSTEM","textChars":26,"textLines":1,"bbox":[72,674,450,20]}
+{"kind":"textbox","id":"sh/sz2dg36h","slide":5,"name":"text","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1160,674,48,20]}
+{"kind":"notes","id":"nt/h2utos","slide":5,"text":"The website documentation lists six sample voter IDs and explains that setup and votes remain in the current browser local storage."}
+{"kind":"slide","id":"sl/7lgedw","slide":6,"title":"JAVA EDITION","textShapes":12}
+{"kind":"textbox","id":"sh/s36p8be9","slide":6,"name":"text","text":"JAVA EDITION","textPreview":"JAVA EDITION","textChars":12,"textLines":1,"bbox":[74,48,900,25]}
+{"kind":"textbox","id":"sh/r2xof6d4","slide":6,"name":"text","text":"VotingManager keeps the rules together","textPreview":"VotingManager keeps the rules together","textChars":38,"textLines":1,"bbox":[72,88,1136,66]}
+{"kind":"textbox","id":"sh/61o761wj","slide":6,"name":"text","text":"REGISTER","textPreview":"REGISTER","textChars":8,"textLines":1,"bbox":[82,205,260,34]}
+{"kind":"textbox","id":"sh/1sz6lgv6","slide":6,"name":"text","text":"Voters\nCandidates","textPreview":"Voters | Candidates","textChars":17,"textLines":2,"bbox":[82,257,280,116]}
+{"kind":"textbox","id":"sh/g7qpcbel","slide":6,"name":"text","text":"VALIDATE","textPreview":"VALIDATE","textChars":8,"textLines":1,"bbox":[486,205,260,34]}
+{"kind":"textbox","id":"sh/f6hoj6d0","slide":6,"name":"text","text":"Window\nVoter ID\nCandidate ID\nRepeat vote","textPreview":"Window | Voter ID | Candidate ID | Repeat vote","textChars":40,"textLines":4,"bbox":[486,257,330,190]}
+{"kind":"textbox","id":"sh/e587a1wf","slide":6,"name":"text","text":"REPORT","textPreview":"REPORT","textChars":6,"textLines":1,"bbox":[920,205,260,34]}
+{"kind":"textbox","id":"sh/xwf69wvm","slide":6,"name":"text","text":"Ranked results\nTie or winner\nText export","textPreview":"Ranked results | Tie or winner | Text export","textChars":40,"textLines":3,"bbox":[920,257,300,170]}
+{"kind":"textbox","id":"sh/wbm50re1","slide":6,"name":"text","text":"VoteStatus makes rejected ballots explicit.","textPreview":"VoteStatus makes rejected ballots explicit.","textChars":43,"textLines":1,"bbox":[82,526,600,45]}
+{"kind":"textbox","id":"sh/y1o3utsn","slide":6,"name":"text","text":"ACCEPTED   ·   UNKNOWN VOTER   ·   ALREADY VOTED   ·   WINDOW CLOSED","textPreview":"ACCEPTED   ·   UNKNOWN VOTER   ·   ALREADY VOTED   ·   WINDOW CLOSED","textChars":68,"textLines":1,"bbox":[82,585,1110,28]}
+{"kind":"textbox","id":"sh/z2xkny98","slide":6,"name":"text","text":"JANMAT  /  ELECTION SYSTEM","textPreview":"JANMAT  /  ELECTION SYSTEM","textChars":26,"textLines":1,"bbox":[72,674,450,20]}
+{"kind":"textbox","id":"sh/k36lw3at","slide":6,"name":"text","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1160,674,48,20]}
+{"kind":"notes","id":"nt/7lgedw","slide":6,"text":"VotingManager handles registration, vote validation, synchronization of castVote, result calculation and vote storage. ResultsExporter writes voting-results.txt."}
+{"kind":"slide","id":"sl/ysiaf6","slide":7,"title":"UNDER THE HOOD","textShapes":12}
+{"kind":"textbox","id":"sh/o3y94jm5","slide":7,"name":"text","text":"UNDER THE HOOD","textPreview":"UNDER THE HOOD","textChars":14,"textLines":1,"bbox":[74,48,900,25]}
+{"kind":"textbox","id":"sh/n2p8vy5k","slide":7,"name":"text","text":"Small choices that make the flow safer","textPreview":"Small choices that make the flow safer","textChars":38,"textLines":1,"bbox":[72,88,1136,66]}
+{"kind":"textbox","id":"sh/21gr2t4z","slide":7,"name":"text","text":"escapeHtml()","textPreview":"escapeHtml()","textChars":12,"textLines":1,"bbox":[84,205,380,50]}
+{"kind":"textbox","id":"sh/1g7qtone","slide":7,"name":"text","text":"Escapes candidate-supplied text before it enters HTML.","textPreview":"Escapes candidate-supplied text before it enters HTML.","textChars":54,"textLines":1,"bbox":[84,261,430,100]}
+{"kind":"textbox","id":"sh/0fyp0jmt","slide":7,"name":"text","text":"Synchronized vote","textPreview":"Synchronized vote","textChars":17,"textLines":1,"bbox":[660,205,460,50]}
+{"kind":"textbox","id":"sh/fep8re5o","slide":7,"name":"text","text":"The Java manager protects the one-vote check and record operation.","textPreview":"The Java manager protects the one-vote check and record operation.","textChars":66,"textLines":1,"bbox":[660,261,490,100]}
+{"kind":"textbox","id":"sh/edw7y943","slide":7,"name":"text","text":"Clock","textPreview":"Clock","textChars":5,"textLines":1,"bbox":[84,432,380,50]}
+{"kind":"textbox","id":"sh/dcnqp4ni","slide":7,"name":"text","text":"The Java rules receive a Clock, which keeps time checks testable.","textPreview":"The Java rules receive a Clock, which keeps time checks testable.","textChars":65,"textLines":1,"bbox":[84,488,450,94]}
+{"kind":"textbox","id":"sh/sbepwzmx","slide":7,"name":"text","text":"Sorted results","textPreview":"Sorted results","textChars":14,"textLines":1,"bbox":[660,432,460,50]}
+{"kind":"textbox","id":"sh/qts3qts3","slide":7,"name":"text","text":"The Java summary ranks by vote count, then candidate name.","textPreview":"The Java summary ranks by vote count, then candidate name.","textChars":58,"textLines":1,"bbox":[660,488,490,94]}
+{"kind":"textbox","id":"sh/ru1kzy9o","slide":7,"name":"text","text":"JANMAT  /  ELECTION SYSTEM","textPreview":"JANMAT  /  ELECTION SYSTEM","textChars":26,"textLines":1,"bbox":[72,674,450,20]}
+{"kind":"textbox","id":"sh/svals3a9","slide":7,"name":"text","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1160,674,48,20]}
+{"kind":"notes","id":"nt/ysiaf6","slide":7,"text":"These details are present in app.js and VotingManager.java. The browser app escapes candidate text before rendering dynamic markup."}
+{"kind":"slide","id":"sl/ioisc1","slide":8,"title":"SCOPE CHECK","textShapes":9}
+{"kind":"textbox","id":"sh/ad8j6dgb","slide":8,"name":"text","text":"SCOPE CHECK","textPreview":"SCOPE CHECK","textChars":11,"textLines":1,"bbox":[74,48,900,25]}
+{"kind":"textbox","id":"sh/x0zi18f2","slide":8,"name":"text","text":"A demo election, with demo-level trust","textPreview":"A demo election, with demo-level trust","textChars":38,"textLines":1,"bbox":[72,88,1136,66]}
+{"kind":"textbox","id":"sh/czq183eh","slide":8,"name":"text","text":"Works well for","textPreview":"Works well for","textChars":14,"textLines":1,"bbox":[82,202,400,48]}
+{"kind":"textbox","id":"sh/nah0vyxk","slide":8,"name":"text","text":"Presenting a voting flow\nTrying the interface locally\nExploring Java election rules","textPreview":"Presenting a voting flow | Trying the interface locally | Exploring Java election rules","textChars":83,"textLines":3,"bbox":[82,273,460,168]}
+{"kind":"textbox","id":"sh/29oz2tgf","slide":8,"name":"text","text":"Not built for","textPreview":"Not built for","textChars":13,"textLines":1,"bbox":[670,202,440,48]}
+{"kind":"textbox","id":"sh/pczix8fq","slide":8,"name":"text","text":"Secure real elections\nShared results across devices\nVerified identity or tamper resistance","textPreview":"Secure real elections | Shared results across devices | Verified identity or tamper resistance","textChars":90,"textLines":3,"bbox":[670,273,500,168]}
+{"kind":"textbox","id":"sh/obqh43y5","slide":8,"name":"text","text":"Browser data stays in that browser. Anyone with access can alter the local setup or stored votes.","textPreview":"Browser data stays in that browser. Anyone with access can alter the local setup or stored votes.","textChars":97,"textLines":1,"bbox":[82,515,1080,68]}
+{"kind":"textbox","id":"sh/761072x4","slide":8,"name":"text","text":"JANMAT  /  ELECTION SYSTEM","textPreview":"JANMAT  /  ELECTION SYSTEM","textChars":26,"textLines":1,"bbox":[72,674,450,20]}
+{"kind":"textbox","id":"sh/65sjexwj","slide":8,"name":"text","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1160,674,48,20]}
+{"kind":"notes","id":"nt/ioisc1","slide":8,"text":"The project website explicitly describes itself as a front-end demo, and states that local storage is not a secure election database and does not sync across devices."}
+{"kind":"slide","id":"sl/gc6bqr","slide":9,"title":"LIVE DEMO","textShapes":12}
+{"kind":"textbox","id":"sh/xgvqlwr2","slide":9,"name":"text","text":"LIVE DEMO","textPreview":"LIVE DEMO","textChars":9,"textLines":1,"bbox":[74,48,900,25]}
+{"kind":"textbox","id":"sh/adk7a1sb","slide":9,"name":"text","text":"A quick run-through","textPreview":"A quick run-through","textChars":19,"textLines":1,"bbox":[72,88,1136,66]}
+{"kind":"textbox","id":"sh/vedojm9w","slide":9,"name":"text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,200,90,66]}
+{"kind":"textbox","id":"sh/8r2p8ra5","slide":9,"name":"text","text":"Open index.html","textPreview":"Open index.html","textChars":15,"textLines":1,"bbox":[192,202,480,52]}
+{"kind":"textbox","id":"sh/9cb6hwrq","slide":9,"name":"text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,310,90,66]}
+{"kind":"textbox","id":"sh/mpk76hsf","slide":9,"name":"text","text":"Choose a candidate and enter VOTER-001","textPreview":"Choose a candidate and enter VOTER-001","textChars":38,"textLines":1,"bbox":[192,312,820,52]}
+{"kind":"textbox","id":"sh/nqtofm9k","slide":9,"name":"text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,420,90,66]}
+{"kind":"textbox","id":"sh/0n2p47a9","slide":9,"name":"text","text":"Show the receipt and refreshed tally","textPreview":"Show the receipt and refreshed tally","textChars":36,"textLines":1,"bbox":[192,422,820,52]}
+{"kind":"textbox","id":"sh/lob6dcru","slide":9,"name":"text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[82,530,90,66]}
+{"kind":"textbox","id":"sh/5gnexg32","slide":9,"name":"text","text":"Use organiser controls to reset the sample","textPreview":"Use organiser controls to reset the sample","textChars":42,"textLines":1,"bbox":[192,532,820,52]}
+{"kind":"textbox","id":"sh/4fedovmh","slide":9,"name":"text","text":"JANMAT  /  ELECTION SYSTEM","textPreview":"JANMAT  /  ELECTION SYSTEM","textChars":26,"textLines":1,"bbox":[72,674,450,20]}
+{"kind":"textbox","id":"sh/3e5wvqlw","slide":9,"name":"text","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1160,674,48,20]}
+{"kind":"notes","id":"nt/gc6bqr","slide":9,"text":"The sample voter ID is documented in WEBSITE.md. The reset control restores the sample election and clears votes in local storage."}
+{"kind":"slide","id":"sl/xqu384","slide":10,"title":"JANMAT","textShapes":7}
+{"kind":"textbox","id":"sh/nu9s7ads","slide":10,"name":"text","text":"JANMAT","textPreview":"JANMAT","textChars":6,"textLines":1,"bbox":[78,54,500,30]}
+{"kind":"textbox","id":"sh/ovi90fed","slide":10,"name":"text","text":"Thanks!\nQuestions?","textPreview":"Thanks! | Questions?","textChars":18,"textLines":2,"bbox":[76,154,700,192]}
+{"kind":"textbox","id":"sh/pwra9kvy","slide":10,"name":"text","text":"A small election project with a clear next chapter.","textPreview":"A small election project with a clear next chapter.","textChars":51,"textLines":1,"bbox":[82,390,860,42]}
+{"kind":"textbox","id":"sh/axkr2pwj","slide":10,"name":"text","text":"NEXT IF THIS GROWS UP","textPreview":"NEXT IF THIS GROWS UP","textChars":21,"textLines":1,"bbox":[82,497,430,28]}
+{"kind":"textbox","id":"sh/bytsbud4","slide":10,"name":"text","text":"Add a trusted backend, persistent database,\nverified authentication and audit controls.","textPreview":"Add a trusted backend, persistent database, | verified authentication and audit controls.","textChars":87,"textLines":2,"bbox":[82,536,930,78]}
+{"kind":"textbox","id":"sh/cz294zep","slide":10,"name":"text","text":"?","textPreview":"?","textChars":1,"textLines":1,"bbox":[1005,167,170,170]}
+{"kind":"textbox","id":"sh/x0badkva","slide":10,"name":"text","text":"PROJECT PRESENTATION","textPreview":"PROJECT PRESENTATION","textChars":20,"textLines":1,"bbox":[82,655,500,20]}
+{"kind":"notes","id":"nt/xqu384","slide":10,"text":"The next steps are recommendations inferred from the documented demo limitations, not features currently implemented."}

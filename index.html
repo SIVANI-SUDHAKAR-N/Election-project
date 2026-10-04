@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f2f0e7">
+  <meta name="description" content="Three candidates. One small election. Make your choice, cast your vote, and watch every ballot count with Janmat.">
+  <title>Janmat — A vote is a promise.</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="site-shell">
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="Janmat home"><span class="brand-mark">J<span>•</span></span><span>janmat<small>THE PEOPLE'S VOTE</small></span></a>
+      <nav><a href="#candidates">Candidates</a><a href="#how">How it works</a></nav>
+      <a class="header-cta" href="#vote">Cast your vote <span>↗</span></a>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy">
+          <div class="eyebrow"><i></i> THREE CANDIDATES. ONE SHARED FUTURE.</div>
+          <h1>Make noise.<br><em>make change.</em></h1>
+          <p class="hero-intro">A little neighbourhood election for a big idea: every registered voice deserves a clear, fair count. Read the ballot. Trust your gut. Show up.</p>
+          <a href="#vote" class="primary-button">Take your place <span>→</span></a>
+          <div class="hero-foot"><span class="seal">✓</span><span>YOUR BALLOT. YOUR CALL.<br><strong>One registered voter. One vote.</strong></span></div>
+        </div>
+        <div class="hero-art" aria-label="Illustration of a ballot box receiving a ballot">
+          <span class="art-caption">FIELD NOTES No. 001&nbsp; / &nbsp;TAKE PART</span>
+          <div class="sun"></div><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+          <div class="ballot"><span>YOUR<br>VOICE</span><b>✓</b></div>
+          <div class="box"><div class="box-slot"></div><span>JANMAT</span><small>THE PEOPLE'S BOX</small><div class="box-front">✳</div></div>
+          <span class="art-stamp">VOTE<br>WITH<br>CARE</span>
+          <span class="art-bottom">COMMUNITY ELECTION &nbsp;·&nbsp; VOL. 01</span>
+        </div>
+      </section>
+
+      <section class="ticker" aria-label="Election values"><div>SHOW UP FOR WHAT COMES NEXT <b>✳</b> THREE CANDIDATES, ONE COMMUNITY <b>✳</b> EVERY VOICE GETS A PLACE <b>✳</b> SHOW UP FOR WHAT COMES NEXT <b>✳</b> THREE CANDIDATES, ONE COMMUNITY <b>✳</b> EVERY VOICE GETS A PLACE <b>✳</b></div></section>
+
+      <section class="candidates section" id="candidates">
+        <div class="section-heading"><div><div class="eyebrow"><i></i> THE PEOPLE ON THE PAPER</div><h2>Three ways forward<span class="period">.</span></h2></div><p>Take a look. Find the name that feels right to you.</p></div>
+        <div class="candidate-grid" id="candidateGrid"></div>
+      </section>
+
+      <section class="vote-section" id="vote">
+        <div class="vote-intro"><div class="eyebrow light"><i></i> THE MOMENT IS YOURS</div><h2>Ready to<br>make a mark?</h2><p>Your vote is private. Your choice is yours alone.</p><div class="vote-stamp">YOUR<br>VOICE<br>COUNTS <b>✳</b></div></div>
+        <div class="ballot-card">
+          <div class="card-top"><span>OFFICIAL BALLOT</span><span id="electionLabel">DEMO ELECTION · 2026</span></div>
+          <h3>Cast your vote</h3><p class="card-sub">Enter your voter ID, then select one candidate.</p>
+          <form id="voteForm">
+            <label for="voterId">YOUR VOTER ID</label><input id="voterId" autocomplete="off" placeholder="e.g. VOTER-001" required>
+            <label class="candidate-label">CHOOSE ONE CANDIDATE</label><div class="vote-options" id="voteOptions"></div>
+            <button class="submit-vote" type="submit">Submit my vote <span>→</span></button>
+            <p class="form-note"><span>▣</span> Your vote can only be cast once.</p>
+          </form>
+          <div id="receipt" class="receipt" role="status" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section class="results section" id="results">
+        <div class="section-heading"><div><div class="eyebrow"><i></i> EVERY VOTE, ACCOUNTED FOR</div><h2>The count so far<span class="period">.</span></h2></div><p>Results update as votes come in.</p></div>
+        <div class="results-card"><div class="results-top"><div><span class="live-dot"></span> LIVE TALLY</div><span id="totalVotes">0 VOTES CAST</span></div><div id="resultsList"></div><div class="winner-line" id="winnerLine">Waiting for the first vote…</div></div>
+      </section>
+
+      <section class="how section" id="how"><div class="eyebrow"><i></i> SIMPLE BY DESIGN</div><h2>Three steps.<br>One meaningful choice.</h2><div class="steps"><article><span>01</span><div class="step-icon">◎</div><h3>Know the candidates</h3><p>Take a moment to see who's running and what they stand for.</p></article><article><span>02</span><div class="step-icon">✳</div><h3>Make your choice</h3><p>Enter your voter ID and select the candidate you believe in.</p></article><article><span>03</span><div class="step-icon">✓</div><h3>See your voice count</h3><p>Your vote is recorded once, and the live tally reflects every ballot.</p></article></div></section>
+
+      <section class="admin section" id="admin"><details><summary>Election organiser <span>Manage this demo election ↗</span></summary><div class="admin-content"><p>Set up candidates and registered voter IDs for this browser. Data is saved locally on this device.</p><form id="setupForm"><label for="setupCandidates">CANDIDATES <small>One per line: ID, Name, Party, short description</small></label><textarea id="setupCandidates" rows="5"></textarea><label for="setupVoters">REGISTERED VOTER IDs <small>One ID per line</small></label><textarea id="setupVoters" rows="4"></textarea><div class="admin-actions"><button type="submit">Save election setup</button><button type="button" class="reset-button" id="resetDemo">Restore sample election</button></div></form></div></details></section>
+    </main>
+    <footer><a class="brand footer-brand" href="#top"><span class="brand-mark">J<span>•</span></span><span>janmat<small>THE PEOPLE'S VOTE</small></span></a><p>A little demo of democracy. Made for every voice.</p><a href="#top">BACK TO TOP ↑</a></footer>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>
